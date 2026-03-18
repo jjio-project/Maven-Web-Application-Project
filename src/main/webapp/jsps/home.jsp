@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Hello SCP pipeline 🚀</h1>
+    <h1>🚀 Hello SCP pipelinee 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
