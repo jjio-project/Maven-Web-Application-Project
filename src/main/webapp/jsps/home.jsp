@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Hello scripted way-01-github-webhook-SCP###SCP## SCP 🚀</h1>
+    <h1>🚀 Hello SCP pipeline 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
